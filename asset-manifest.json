@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/etalasedigital/reactdsp/static/css/main.2cce8147.chunk.css",
+    "main.js": "/etalasedigital/reactdsp/static/js/main.d80b80e9.chunk.js",
+    "main.js.map": "/etalasedigital/reactdsp/static/js/main.d80b80e9.chunk.js.map",
+    "runtime~main.js": "/etalasedigital/reactdsp/static/js/runtime~main.58f33bac.js",
+    "runtime~main.js.map": "/etalasedigital/reactdsp/static/js/runtime~main.58f33bac.js.map",
+    "static/js/2.c991a075.chunk.js": "/etalasedigital/reactdsp/static/js/2.c991a075.chunk.js",
+    "static/js/2.c991a075.chunk.js.map": "/etalasedigital/reactdsp/static/js/2.c991a075.chunk.js.map",
+    "index.html": "/etalasedigital/reactdsp/index.html",
+    "precache-manifest.4d0821ad5799b63023bcf04c688351e4.js": "/etalasedigital/reactdsp/precache-manifest.4d0821ad5799b63023bcf04c688351e4.js",
+    "service-worker.js": "/etalasedigital/reactdsp/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/etalasedigital/reactdsp/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/etalasedigital/reactdsp/static/media/logo.5d5d9eef.svg"
+  }
+}
